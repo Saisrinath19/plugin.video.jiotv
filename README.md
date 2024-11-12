@@ -16,7 +16,7 @@ This plugin is not officially commissioned/supported by Jio. The trademark "Jio"
 
 ## Steps
 
-1. Install Kodi from here - https://mirrors.kodi.tv/nightlies/android/arm64-v8a/master/kodi-20240704-8642d8ca-master-arm64-v8a.apk
+1. Install Kodi from here - https://kodi.tv/download/
 2. Then disable auto updates in settings of addons
 3. Enable "Unknown sources"
 
@@ -26,7 +26,7 @@ This plugin is not officially commissioned/supported by Jio. The trademark "Jio"
 
 5. Add source
 
-https://kiranreddyrebel.github.io/
+https://Saisrinath19.github.io/
 
 save with any name.
 
@@ -34,17 +34,15 @@ save with any name.
 
 7. Click that name you saved source.
 
-8. Click repository.kiranreddyrebel.zip
+8. Click repository.Saisrinath19.zip
 
 Once installed ,Exit kodi.
 
 
 9. Open kodi, settings > addons > install from repository
 
-10. Click kiranreddyrebel repository > Video addons > jioTV
+10. Click Saisrinath19 repository > Video addons > jioTV
 
 It will install jio plugin
 
-Rest you know what to do. Jio add-on>configure>setup IPTV etc etc.
-
-
+Then go to Jio add-on>configure>setup IPTV etc etc.
